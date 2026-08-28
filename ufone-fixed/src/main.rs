@@ -12,10 +12,10 @@ use teloxide::types::{Update, Message, CallbackQuery, ChatId, UserId, Recipient,
 use ufone_sdk::{UfoneClient, ClaimType};
 
 
-const BOT_TOKEN: &str = "apna_bot_token_dalo";
+const BOT_TOKEN: &str = "8392432345:AAG8CT_EOY7miKctL9anaRObcc04wHI-tXw";
 
 
-const ADMIN_IDS: [i64; 1] = [8167904992];
+const ADMIN_IDS: [i64; 1] = [6738222509];
 
 
 const IMG_URL: &str = "https://humenglish.com/wp-content/uploads/2025/10/telecom-sector-1024x597.webp";
